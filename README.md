@@ -15,7 +15,7 @@
 git clone https://github.com/твой-username/composetest.git
 cd composetest
 
-# Запуск в обычном режиме)
+# Запуск в обычном режиме
 docker compose up --build
 
 # Или режим разработки с автоматической синхронизацией кода
