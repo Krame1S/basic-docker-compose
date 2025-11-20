@@ -21,3 +21,5 @@ docker compose up --build
 # Или режим разработки с автоматической синхронизацией кода
 docker compose watch
 ```
+
+![Счётчик увеличивается](media/redis++.gif)
