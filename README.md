@@ -22,4 +22,4 @@ docker compose up --build
 docker compose watch
 ```
 
-![Счётчик увеличивается](media/redis.gif)
+![Счётчик увеличивается](media/redis.mp4)
